@@ -1,0 +1,22 @@
+INSTALLATION
+
+1. Github project
+	1.1 Download the GitHub project, either as a .zip file or using the git clone command.
+	1.2 If you downloaded it as a .zip file, unzip the project before proceeding.
+
+2. Docker setup
+	2.1 Download and install the Docker Desktop app from this link: https://www.docker.com/products/docker-desktop/
+	2.2 After the installation, open the Docker Desktop app.
+	2.3 With Docker Desktop running, open the Windows Command Prompt and navigate to the project's folder.
+	2.4 In the project folder, run the command: docker-compose up
+	2.5 If everything worked correctly, you should see the project's containers up and running in the Docker Desktop app.
+
+
+USAGE
+
+1. Endpoints access: To use this engine on my chess website pass 'http://localhost:8080/api/' as the engine's URL in the engine creation tab
+
+UNINSTALL
+
+To remove the project entirely from your pc run this command in cmd in the project's folder: docker-compose down -v
+
