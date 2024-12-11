@@ -15,6 +15,7 @@ INSTALLATION
 USAGE
 
 1. Endpoints access: To use this engine on my chess website pass 'http://localhost:8080/api/' as the engine's URL in the engine creation tab
+2. The chess website project itself can be found here: https://github.com/F8Code/WebAppForChessEnginesDevelopment
 
 UNINSTALL
 
